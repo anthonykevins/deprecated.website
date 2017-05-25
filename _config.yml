@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-gems:
-  - jekyll-seo-tag
+gems: [jekyll-paginate, jekyll-seo-tag]
